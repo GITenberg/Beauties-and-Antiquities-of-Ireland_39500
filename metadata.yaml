@@ -1,0 +1,29 @@
+_repo: Beauties-and-Antiquities-of-Ireland_39500
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39500-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Russell, Thomas O’Neill
+    alias: Russell, T. O.
+    birthdate: 1828
+    deathdate: 1908
+    gutenberg_agent_id: '40050'
+    url: http://www.gutenberg.org/2009/agents/40050
+description: ''
+gutenberg_issued: '2012-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Antiquities'
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'DA'
+title: "Beauties and Antiquities of Ireland\r\nBeing a Tourist's Guide to Its Most\
+  \ Beautiful Scenery & an Archæologist's Manual for Its Most Interesting Ruins"
+url: http://www.gutenberg.org/ebooks/39500
